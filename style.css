@@ -1,4 +1,8 @@
 @charset "UTF-8"; 
+body { 
+  background-image: url("p6.JPG"); 
+  background-size: cover;
+} 
 * { 
 
   margin: 0; 
